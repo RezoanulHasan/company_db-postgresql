@@ -1,0 +1,21 @@
+## SQL Queries
+### Query 1
+Retrieve all employees with a salary greater than 60000.
+
+### Query 2
+Retrieve the names of employees using a limit of 2, starting from the 3rd employee.
+
+### Query 3
+Calculate and display the average age of all employees.
+
+### Query 4
+Retrieve the names of employees whose email addresses contain 'example.com', 'example.net', or 'google.com'.
+
+### Query 5
+Retrieve the names of all employees who belong to the department titled 'Engineering'.
+
+### Query 6
+Update the status of the employee with the highest salary to 'Promoted'. (Note: Uses a subquery to identify the employee with the highest salary)
+
+### Query 7
+Retrieve the department name and the average salary of employees in each department.
